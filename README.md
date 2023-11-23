@@ -26,6 +26,12 @@
   <!-- <a href="https://khaled308.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a> -->
+    <a href="https://www.frontendmentor.io/profile/khaled308" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend%20Mentor-333333?style=for-the-badge&logo=frontendmentor&logoColor=green" target="_blank" />
+  </a>
+  <a href="https://leetcode.com/khaled308/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
+  </a>
 </div>
 
  <hr/>
