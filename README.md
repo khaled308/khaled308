@@ -23,9 +23,9 @@
   <a href="https://www.linkedin.com/in/khaled-yassin-0503b61b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <!-- <a href="https://khaled308.github.io" target="_blank">
+  <a href="https://khaled308.github.io/portfolio" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a> -->
+  </a>
     <a href="https://www.frontendmentor.io/profile/khaled308" target="_blank">
     <img src="https://img.shields.io/badge/Frontend%20Mentor-333333?style=for-the-badge&logo=frontendmentor&logoColor=green" target="_blank" />
   </a>
